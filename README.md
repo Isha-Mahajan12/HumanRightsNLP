@@ -5,6 +5,9 @@ This study conducts a topical analysis of coverage on human rights from around t
 ## Data
 Christopher J. Fariss; Fridolin J. Linder; Zachary M. Jones; Charles D. Crabtree; Megan A. Biek; Ana-Sophia M. Ross; Taranamol Kaur; Michael Tsai, 2015, "Human Rights Texts: Converting Human Rights Primary Source Documents into Data", https://doi.org/10.7910/DVN/IAH8OY, Harvard Dataverse, V3  
 
+## Analysis 
+https://rpubs.com/imahajan10
+
 ## Key Components of the project include
 1. Importing the data in R and converting it into a corpus
 2. Conducting important preprocessing steps relevant to the research topic - removing punctuation, numbers, urls and stopwords, converting all words to lowercase and stemming the data to reduce words to the root node.
